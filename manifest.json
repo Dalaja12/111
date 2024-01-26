@@ -7,7 +7,7 @@
   "background_color": "#000000",
   "theme_color": "#d004db",
   "orientation" :"standalone",
-  "scope": "./",
+  "prefer_related_applications": false,
   "lang":"es-MX",
   "icons": [
     {
