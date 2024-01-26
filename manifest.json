@@ -6,12 +6,12 @@
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#d004db",
-  "orientation" :"standalone",
   "scope": "./",
   "lang":"es-MX",
+  "prefer_related_applications": false,
   "icons": [
     {
-      "src": "js/01.png",
+      "src": "js/1.png",
       "sizes": "1024x1024",
       "type": "image/png"
     },
@@ -55,11 +55,5 @@
       "sizes": "32x32",
       "type": "image/png"
     },
-    {
-      "src": "js/10",
-      "sizes": "16x16",
-      "type": "image/png"
-    }
   ]
 }
-
